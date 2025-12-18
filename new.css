@@ -1,0 +1,20 @@
+p{
+    color:blue;
+
+}
+.highlight {
+    background-color: yellow;
+    color:pink;
+}
+#main-title {
+    background-color: lightgreen;
+    ;
+    margin:20px;
+ 
+
+}
+h2,h3{
+    font-family:Arial, Helvetica, sans-serif;
+    color:green;
+
+}
